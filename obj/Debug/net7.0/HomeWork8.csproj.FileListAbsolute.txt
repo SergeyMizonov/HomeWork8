@@ -1,0 +1,15 @@
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\HomeWork8.csproj.AssemblyReference.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\HomeWork8.AssemblyInfoInputs.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\HomeWork8.AssemblyInfo.cs
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\HomeWork8.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\bin\Debug\net7.0\HomeWork8.exe
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\bin\Debug\net7.0\HomeWork8.deps.json
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\bin\Debug\net7.0\HomeWork8.runtimeconfig.json
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\bin\Debug\net7.0\HomeWork8.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\bin\Debug\net7.0\HomeWork8.pdb
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\HomeWork8.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\refint\HomeWork8.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\HomeWork8.pdb
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\HomeWork8.genruntimeconfig.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork8\obj\Debug\net7.0\ref\HomeWork8.dll
